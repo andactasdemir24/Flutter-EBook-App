@@ -1,0 +1,44 @@
+[
+    {
+        "rating":"4.5",
+        "title":"THE WATER CURE",
+        "text":"Sophie Mackintosh",
+        "img":"Assets/png/pic-1.png",
+        "audio":"Voices1.mp3"
+    },
+    {
+        "rating":"4.6",
+        "title":"PEACE LIFE",
+        "text":"Hazard Bin",
+        "img":"Assets/png/pic-2.png",
+        "audio":"Voices2.mp3"
+    },
+    {
+        "rating":"3.2",
+        "title":"Day Remember",
+        "text":"Nicholos",
+        "img":"Assets/png/pic-3.png",
+        "audio":"Voices3.mp3"
+    },
+    {
+        "rating":"5.0",
+        "title":"A Poison Tree",
+        "text":"William Blake",
+        "img":"Assets/png/pic-4.jpg",
+        "audio":"Voices4.mp3"
+    },
+    {
+        "rating":"3.8",
+        "title":"Miserables",
+        "text":"Victor Hugo",
+        "img":"Assets/png/pic-2.png",
+        "audio":"Voices5.mp3"
+    },
+    {
+        "rating":"4.1",
+        "title":"La Fontaine Fables",
+        "text":"Jean De La Fontaine ",
+        "img":"Assets/png/pic-1.png",
+        "audio":"Voices6.mp3"
+    }
+]
